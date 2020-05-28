@@ -5,5 +5,5 @@
 * Специфика синтаксиса шаблонов Angular.
 * Интерполяция и связывание.
 
-https://www.youtube.com/watch?v=93M2sM8pEew
+https://www.youtube.com/watch?v=93M2sM8pEew  
 https://youtu.be/5548X2avoSI
